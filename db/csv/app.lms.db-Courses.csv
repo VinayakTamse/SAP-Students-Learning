@@ -1,0 +1,4 @@
+ID,course_name,course_url,course_duration,course_price,published_status
+100,Java,https://learn-java.com/,20,100.80,true
+101,C Programming,https://learn-c.com/,10,700.80,true
+102,Python,https://learn-python.com/,20,100.80,true

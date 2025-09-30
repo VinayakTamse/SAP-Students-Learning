@@ -1,0 +1,7 @@
+ID,url,date_published,content_type,course_ID
+1,https://learn-java.com/contents/,2010-01-01,PDF,100
+2,https://learn-java.com/contents/,2010-01-01,Video,100
+3,https://learn-c.com/contents/,2010-02-01,PDF,101
+4,https://learn-c.com/contents/,2010-02-01,Video,101
+5,https://learn-python.com/contents/,2010-05-01,PDF,102
+6,https://learn-python.com/contents/,2010-05-01,Video,102
